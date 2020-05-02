@@ -3,8 +3,7 @@
 1. I Gede Arimbawa Putra Teja Wardana - 05311840000045
 2. Desya Ananda Puspita Dewi - 05311840000046
 
-### Soal Shift Modul 4
-----------------------------------
+## Soal Shift Modul 4
   Di suatu perusahaan, terdapat pekerja baru yang super jenius, ia bernama jasir. Jasir baru bekerja selama seminggu di perusahan itu, dalam waktu seminggu tersebut ia selalu terhantui oleh ketidak amanan dan ketidak efisienan file system yang digunakan perusahaan tersebut. Sehingga ia merancang sebuah file system yang sangat aman dan efisien. Pada segi keamanan, Jasir telah menemukan 2 buah metode enkripsi file. 
 
   Pada mode enkripsi pertama, nama file-file pada direktori terenkripsi akan dienkripsi menggunakan metode substitusi. 
@@ -116,16 +115,31 @@ INFO::200419-18:29:33::RENAME::/iz1/yena.jpg::/iz1/yena.jpeg
 ```
 
 
-### Penyelesaian:
-----------------------------------
+## Penyelesaian:
 
-### Output
-----------------------------------
 
-- Nomor 1
+## Output
 
-- Nomor 4
+**Nomor 1**
 
-### Kendala
-----------------------------------
+- file setelah terenkripsi
 
+![capture](https://github.com/desyaapd/SoalShiftSISOP20_modul4_T16/blob/master/image/enkrip.PNG) 
+
+- file setelah di dekrip dengan cara _rename_
+
+![capture](https://github.com/desyaapd/SoalShiftSISOP20_modul4_T16/blob/master/image/dekrip.PNG) 
+
+**Nomor 4**
+
+log system akan terupdate setiap system call di jalankan dengna membuka `fs.log`
+
+![capture](https://github.com/desyaapd/SoalShiftSISOP20_modul4_T16/blob/master/image/log1.PNG)
+![capture](https://github.com/desyaapd/SoalShiftSISOP20_modul4_T16/blob/master/image/log2.PNG)
+![capture](https://github.com/desyaapd/SoalShiftSISOP20_modul4_T16/blob/master/image/log3.PNG) 
+
+
+## Kendala
+
+- Soalnya terlalu ambigu mas, jadi kita bingung yang benar bagaimana
+- Karena soalnya panjang, dan kata-katanya susah untuk dipahami, sehingga tidak semua soal dikerjakan
